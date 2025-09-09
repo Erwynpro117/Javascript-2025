@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: blueviolet;
+    color: black;
+}
+
+
+h1,h2 {
+    margin-bottom: 1rem;
+    color: cadetblue;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+ul,ol {
+    margin-bottom: 1rem;
+    margin-left: 2rem;
+}
+
+li {
+    margin-bottom: 0.75rem;
+}
